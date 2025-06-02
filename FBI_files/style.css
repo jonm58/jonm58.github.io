@@ -9,7 +9,7 @@ html, body{
 }
 
 body{
-    font-family: 'IBM Plex Sans SC, Noto Sans SC, Microsoft YaHei';
+    font-family: 'IBM Plex Sans SC, Noto Sans SC, Microsoft YaHei, IBM Plex Sans, Noto Sans';
     opacity: 0;
     transition: opacity 1s;
 }
